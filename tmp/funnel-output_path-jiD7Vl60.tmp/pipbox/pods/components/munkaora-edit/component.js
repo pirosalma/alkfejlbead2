@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/pipbox/tmp/babel-output_path-Vvqb1wQw.tmp/pipbox/pods/components/munkaora-edit/component.js

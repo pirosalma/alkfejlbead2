@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/pipbox/tmp/jshinter-output_path-jZqeWFHm.tmp/unit/pods/index/route-test.jshint.js

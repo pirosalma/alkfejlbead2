@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/pipbox/tmp/jshinter-output_path-KwIex2Rp.tmp/unit/pods/application/adapter-test.jshint.js

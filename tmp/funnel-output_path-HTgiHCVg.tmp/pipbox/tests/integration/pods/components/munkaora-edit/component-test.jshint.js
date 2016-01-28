@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/pipbox/tmp/jshinter-output_path-jZqeWFHm.tmp/integration/pods/components/munkaora-edit/component-test.jshint.js

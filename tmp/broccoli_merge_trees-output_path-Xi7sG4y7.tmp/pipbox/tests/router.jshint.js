@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/pipbox/tmp/jshinter-output_path-p3ZRktWM.tmp/router.jshint.js

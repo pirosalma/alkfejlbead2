@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/pipbox/tmp/broccoli_merge_trees-input_base_path-P869w5Ug.tmp/0/app.jshint.js

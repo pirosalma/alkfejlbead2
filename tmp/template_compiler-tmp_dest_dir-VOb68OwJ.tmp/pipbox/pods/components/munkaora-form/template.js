@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/pipbox/tmp/template_compiler-tmp_cache_dir-uuI0Yg2h.tmp/4

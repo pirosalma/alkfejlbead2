@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/pipbox/tmp/babel-output_path-xAmJsJze.tmp/pipbox/tests/integration/pods/components/munkaora-form/component-test.js

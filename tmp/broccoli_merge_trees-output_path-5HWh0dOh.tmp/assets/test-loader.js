@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/pipbox/bower_components/ember-cli-test-loader/test-loader.js

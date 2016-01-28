@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/pipbox/tmp/babel-output_path-8JsyhRNT.tmp/pipbox/tests/integration/pods/components/comment-form/component-test.js

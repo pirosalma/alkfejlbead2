@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/pipbox/tmp/template_compiler-tmp_cache_dir-WaUXAoC4.tmp/0

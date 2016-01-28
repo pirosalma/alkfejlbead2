@@ -1,0 +1,1 @@
+/home/ubuntu/workspace/pipbox/tmp/funnel-input_base_path-KJmSNIIX.tmp/0/pipbox/initializers/export-application-global.js
