@@ -106,8 +106,7 @@ A githubon található Download ZIP gombra kattintva a teljes projekt letölthet
 
 ### A program használata
 
-A http://alkfejlbead2adatb-pirosalma.c9users.io/ oldalra navigálva (a szerver elindítása után) a program fogad bennünket. A jobb felső sarokban található "Bejelentkezés" gombra kattintva lehetőségünk van az alkalmazásba bejelentkezni, vagy amennyiben még nincs felhasználónk, regisztrálni.
-Sikeres bejelentkezés után egy listát láthatunk a jelenleg felvitt telefonszámokról, és lehetőségünk van azok törlésére is.
-Új telefonszám felvitele esetén minden mező kitöltése kötelező. A "dolgozó felvitele" gombra kattintva az újonnan felvitt telefonszám hozzáadásra kerül az adatbázishoz.
-A telefonszámok listájánál a ceruza gombra kattintva szerkeszthetjük a már meglévő névjegyeinket, a szemetes ikonra kattintva pedig törölhetjük azokat.
-Ha már nincs szükségünk a programra, akkor kijelentkezés után a webböngésző programért felelős lapjának bezárásával vethetünk véget a munkamenetünknek.
+A http://alkfejlbead2-pirosalma.c9users.io/ oldalra navigálva (a szerver elindítása után) a program fogad bennünket.
+Egy listát láthatunk a jelenleg felvitt munkaórákról, és lehetőségünk van azok törlésére is.
+Új munkaóra felvitele esetén minden mező kitöltése kötelező. Az elküld gombra kattintva az újonnan felvitt munkaóra hozzáadásra kerül az adatbázishoz.
+A munkaórák listájánál a ceruza gombra kattintva szerkeszthetjük a már meglévőket, a piros x ikonra kattintva pedig törölhetjük azokat.
